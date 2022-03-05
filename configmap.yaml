@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  MOVIES_FACTORY_URL: http://movies-factory
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2022-01-19T21:45:55Z"
+  name: movies-home
+  namespace: default
+  resourceVersion: "68453"
+  uid: c6e1a828-a996-485e-8bb8-2c1cd37487f0
